@@ -7,3 +7,5 @@ more text.
 crash at will
 u good speal duz ya ?
 
+
+This is a pretty awesome commit.
